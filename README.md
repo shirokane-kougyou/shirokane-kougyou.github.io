@@ -1,3 +1,3 @@
-# Yattecast
+# 白金鉱業.fm
 
-https://r7kamura.github.io/yattecast/
+https://shirokane-kougyou.fm
