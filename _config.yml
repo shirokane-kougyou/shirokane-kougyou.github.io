@@ -10,7 +10,7 @@ actors:
 author: alice
 description: Example description
 description_long: Example long description
-email: info@example.com
+email: shirokanekougyou@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,9 +20,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: 白金鉱業fm
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: data science,AI
 language: ja
 markdown: kramdown
 permalink: /episode/:title
