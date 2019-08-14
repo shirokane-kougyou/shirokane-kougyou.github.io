@@ -1,15 +1,15 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
+  ysdyt:
+    image_url: /images/actors/ysdyt.jpg
+    name: ysdyt
+    url: https://twitter.com/yutatatatata
+  Hyperion_13:
+    image_url: /images/actors/Hyperion_13.jpg
+    name: Hyperion_13
+    url: https://twitter.com/Hyperion134
+author: 白金鉱業
+description: 白金鉱業.fmは、白金鉱業メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
+description_long: 白金鉱業メンバーによるポッドキャスト番組です。メンバー内や、たまに外部のゲストをお招きして、その時々アツいと感じたテーマについてデータ分析やAI界隈の技術の話や仕事について分野を問わずざっくばらんに話しています。
 email: shirokanekougyou@gmail.com
 exclude:
   - docker
