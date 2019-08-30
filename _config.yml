@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-60961437-2
 hashtag: 白金鉱業fm
 itunes_podcast_url:
 keywords: data science,AI
