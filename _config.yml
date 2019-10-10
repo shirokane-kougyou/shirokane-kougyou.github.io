@@ -1,6 +1,6 @@
 actors:
   ysdyt:
-    image_url: /images/actors/ysdyt.jpg
+    image_url: /images/actors/yutatatatata.jpg
     name: ysdyt
     url: https://twitter.com/yutatatatata
   Hyperion_13:
@@ -9,6 +9,7 @@ actors:
     url: https://twitter.com/Hyperion134
   fujitako:
     image_url: /images/actors/fujitako03.jpg
+    name: fujitako
     url: https://twitter.com/fujitako
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
