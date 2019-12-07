@@ -35,6 +35,11 @@ actors:
     image_url: /images/actors/tnoguchi15.jpg
     name: t.noguchi
     url: https://twitter.com/tnoguchi15
+  おおたまん:
+    image_url: /images/actors/ohtaman.jpg
+    name: おおたまん
+    url: https://twitter.com/ohtaman
+https://twitter.com/ohtaman
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
 description_long: 白金鉱業.FMはBrainPad社のデータサイエンティスト有志メンバーによるポッドキャスト番組です。メンバー同士や、時に外部ゲストを交え、データ分析やAI界隈、または気の向くままに雑談などをざっくばらんに話しています。
