@@ -67,7 +67,7 @@ actors:
     image_url: /images/actors/daigo_hirooka.jpg
     name: Daigo
     url: https://twitter.com/daigo_hirooka
-  佐藤 由将
+  佐藤 由将:
     image_url: /images/actors/usksatoo.jpg
     name: 佐藤 由将
     url: https://twitter.com/usksatoo
