@@ -54,7 +54,7 @@ actors:
   Shota Okazaki:
     image_url: /images/actors/ShotaOkazaki.jpg
     name: Shota Okazaki
-    url: 
+    url:
   Kurihara:
     image_url: /images/actors/RioKurihara.jpg
     name: Kurihara
@@ -110,7 +110,7 @@ actors:
   Makoto Hyodo:
     image_url: /images/actors/MakotoHyodo.jpg
     name: Makoto Hyodo
-    url: 
+    url:
   城戸 (Legalscape):
     image_url: /images/actors/p_km.png
     name: 城戸 (Legalscape)
@@ -150,4 +150,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: 白金鉱業.FM
-url: https://shirokane-kougyou.github.io/
+url: https://shirokane-kougyou.github.io
