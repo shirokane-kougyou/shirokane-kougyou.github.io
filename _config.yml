@@ -143,6 +143,22 @@ actors:
     image_url: /images/actors/HidenariUoi.jpeg
     name: uoi
     url:
+  hik0107:
+    image_url: /images/actors/hik0107.jpg
+    name: hik0107
+    url: https://twitter.com/hik0107
+  pacocat:
+    image_url: /images/actors/pacocat.jpg
+    name: pacocat
+    url: https://twitter.com/pacocat
+  MasaDoN22:
+    image_url: /images/actors/MasaDoN22.jpg
+    name: MasaDoN22
+    url: https://twitter.com/MasaDoN22
+  tetsuroito:
+    image_url: /images/actors/tetsuroito.jpg
+    name: tetsuroito
+    url: https://twitter.com/tetsuroito
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
 description_long: 白金鉱業.FMはBrainPad社のデータサイエンティスト有志メンバーによるポッドキャスト番組です。メンバー同士や、時に外部ゲストを交え、データ分析やAI界隈、または気の向くままに雑談などをざっくばらんに話しています。
