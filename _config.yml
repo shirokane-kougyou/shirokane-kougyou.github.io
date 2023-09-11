@@ -191,6 +191,11 @@ actors:
     image_url: /images/actors/nakamichi.jpeg
     name: nakamichi
     url: https://www.brainpad.co.jp/doors/specialist/ryosuke_nakamichi/
+  jin_tanaka:
+    image_url: /images/actors/jin_tanaka.png
+    name: jin_tanaka
+    url: https://qiita.com/_jinta
+
     
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
