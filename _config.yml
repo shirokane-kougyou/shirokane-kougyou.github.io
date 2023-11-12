@@ -199,7 +199,14 @@ actors:
     image_url: /images/actors/masaki_imura.jpeg
     name: masaki_imura
     url: https://jdmc.connpass.com/event/288992/
-
+  shinichirou_hara:
+    image_url: /images/actors/shinichirou_hara.jpg
+    name: shinichirou_hara
+    url: https://www.brainpad.co.jp/doors/specialist/%E5%8E%9F%E7%9C%9F%E4%B8%80%E9%83%8E/
+  haruka_nakashima:
+    image_url: /images/actors/haruka_nakashima.png
+    name: haruka_nakashima
+    url: 
     
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
