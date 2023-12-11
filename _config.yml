@@ -207,7 +207,15 @@ actors:
     image_url: /images/actors/haruka_nakashima.png
     name: haruka_nakashima
     url: 
-    
+  ryo_sasaki:
+    image_url: /images/actors/ryo_sasaki.jpeg
+    name: ryo_sasaki
+    url: http://ryosasaki.net/
+  tacchan:
+    image_url: /images/actors/tacchan.jpeg
+    name: tacchan
+    url: https://twitter.com/tatsuki_2022
+
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
 description_long: 白金鉱業.FMはBrainPad社のデータサイエンティスト有志メンバーによるポッドキャスト番組です。メンバー同士や、時に外部ゲストを交え、データ分析やAI界隈、または気の向くままに雑談などをざっくばらんに話しています。
@@ -223,6 +231,7 @@ exclude:
 google_analytics: UA-60961437-2
 hashtag: 白金鉱業fm
 itunes_podcast_url: https://podcasts.apple.com/jp/podcast/%E7%99%BD%E9%87%91%E9%89%B1%E6%A5%AD-fm/id1479033656
+spotify_podcast_url: https://open.spotify.com/show/4iVxMiLaAmz6e7Mv0yTRCk
 keywords: data science,AI
 language: ja
 markdown: kramdown
