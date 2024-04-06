@@ -219,6 +219,11 @@ actors:
     image_url: /images/actors/hiraki.png
     name: hiraki
     url: https://blog.brainpad.co.jp/entry/2023/06/08/161721
+  toma_tanaka:
+    image_url: /images/actors/toma_tanaka.jpeg
+    name: toma_tanaka
+    url: https://twitter.com/fuyu_quant
+
 
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
