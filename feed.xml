@@ -28,10 +28,20 @@
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{ post.content | xml_escape }}</description>
         <guid isPermaLink="true">{{ site.github.url }}{{ post.url }}</guid>
-                {% if post.audio_file_url != nil %}
-          <enclosure url="{{ post.audio_file_url }}" length="{{ post.audio_file_size }}" type="audio/mp3"/>
+        {% if post.audio_file_url != nil %}
+          {% assign file_extension = post.audio_file_url | split: '.' | last %}
+          {% if file_extension == 'mp3' %}
+            <enclosure url="{{ post.audio_file_url }}" length="{{ post.audio_file_size }}" type="audio/mp3"/>
+          {% elsif file_extension == 'm4a' %}
+            <enclosure url="{{ post.audio_file_url }}" length="{{ post.audio_file_size }}" type="audio/x-m4a"/>
+          {% endif %}
         {% else %}
-          <enclosure url="{{ site.github.url }}{{ post.audio_file_path }}" length="{{ post.audio_file_size }}" type="audio/mp3"/>
+          {% assign file_extension = site.github.url | append: post.audio_file_path | split: '.' | last %}
+          {% if file_extension == 'mp3' %}
+            <enclosure url="{{ site.github.url }}{{ post.audio_file_path }}" length="{{ post.audio_file_size }}" type="audio/mp3"/>
+          {% elsif file_extension == 'm4a' %}
+            <enclosure url="{{ site.github.url }}{{ post.audio_file_path }}" length="{{ post.audio_file_size }}" type="audio/x-m4a"/>
+          {% endif %}
         {% endif %}
         <itunes:author>{{ site.author }}</itunes:author>
         <itunes:subtitle>{{ post.description }}</itunes:subtitle>
