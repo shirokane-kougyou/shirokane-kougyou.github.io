@@ -223,7 +223,10 @@ actors:
     image_url: /images/actors/toma_tanaka.jpeg
     name: toma_tanaka
     url: https://twitter.com/fuyu_quant
-
+  izumi:
+    image_url: /images/actors/izumi.png
+    name: izumi
+    url: https://x.com/bebebeBayes
 
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
