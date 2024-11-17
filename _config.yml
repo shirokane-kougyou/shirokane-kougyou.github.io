@@ -227,6 +227,20 @@ actors:
     image_url: /images/actors/izumi.png
     name: izumi
     url: https://x.com/bebebeBayes
+  takeshi_higashi:
+    image_url: /images/actors/takeshi_higashi.jpg
+    name: takeshi_higashi
+    url: https://www.brainpad.co.jp/doors/specialist/takeshi_higashi/
+  koichi_kinoshita:
+    image_url: /images/actors/koichi_kinoshita.jpg
+    name: koichi_kinoshita
+    url: https://x.com/k_shoppi
+  ryota_nagano:
+    image_url: /images/actors/ryota_nagano.jpg
+    name: ryota_nagano
+    url: https://x.com/nagano_meme
+
+
 
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
