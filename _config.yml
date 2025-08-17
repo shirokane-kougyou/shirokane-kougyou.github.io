@@ -239,8 +239,19 @@ actors:
     image_url: /images/actors/ryota_nagano.jpg
     name: ryota_nagano
     url: https://x.com/nagano_meme
-
-
+  masaya_kimura:
+    image_url: /images/actors/masaya_kimura.png
+    name: masaya_kimura
+    url: 
+  katsuhiro_muto:
+    image_url: /images/actors/katsuhiro_muto.jpg
+    name: katsuhiro_muto
+    url: https://x.com/eycjur
+  mizuho_yanagi:
+    image_url: /images/actors/mizuho_yanagi.jpg
+    name: mizuho_yanagi
+    url: https://x.com/suikabar_umai
+    
 
 author: 白金鉱業
 description: データサイエンスやAI界隈の話題を中心に、BrainPad社のデータサイエンティスト有志メンバーがアツいと感じていることを自由に話すポッドキャスト番組です。
